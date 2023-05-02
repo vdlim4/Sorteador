@@ -1,0 +1,36 @@
+body {
+    background: bisque;
+    font: normal 15pt Arial;
+}
+header {
+    text-align: center;
+    margin: 50px;
+}
+
+.painel {
+    background: rgb(128, 141, 53);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.322);
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+    width: 650px;
+}
+
+.input {
+    width: 100px;
+}
+
+.check-txt {
+    font-size: 12pt;
+}
+
+.botao {
+    width: 80px;
+    height: 25px;
+}
+
+footer {
+    text-align: center;
+}
+
