@@ -35,6 +35,9 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
+    body {
+        margin: auto;
+    }
     .painel { 
         width: auto;
     }
