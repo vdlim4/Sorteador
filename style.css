@@ -34,12 +34,23 @@ footer {
     text-align: center;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 400px) {
     body {
         margin: auto;
     }
     .painel {
         font-size: 1.8rem;
+        width: auto;
+        margin: 10px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        margin: auto;
+    }
+    .painel {
+        font-size: 2rem;
         width: auto;
         margin: 10px;
     }
