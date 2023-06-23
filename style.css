@@ -38,7 +38,9 @@ footer {
     body {
         margin: auto;
     }
-    .painel { 
+    .painel {
+        font-size: 1.8rem;
         width: auto;
+        margin: 10px;
     }
 }
