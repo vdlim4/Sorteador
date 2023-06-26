@@ -18,8 +18,10 @@ function sortear() {
             tempo--
             res.innerHTML = `<p>${tempo}</p>`
             res.style.textAlign = 'center'
+            res.style.fontWeight = 'bold'
             if (tempo === 0) {
                 clearInterval(contagem)
+                res.style.fontWeight = 'normal'
                 res.innerHTML = `<p>O número sorteado foi: <strong>${numAleatorio}</strong>!</p>`
                 }
             }, 1000)

@@ -19,6 +19,7 @@ header {
 
 .input {
     width: 100px;
+    height: 20px;
 }
 
 .check-txt {
@@ -26,7 +27,7 @@ header {
 }
 
 .botao {
-    width: 80px;
+    width: 90px;
     height: 25px;
 }
 
@@ -50,7 +51,7 @@ footer {
         margin: auto;
     }
     .painel {
-        font-size: 2rem;
+        font-size: 1.6rem;
         width: auto;
         margin: 10px;
     }
