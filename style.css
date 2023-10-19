@@ -1,5 +1,5 @@
 body {
-    background: #9fa9b1;
+    background: #ffffff;
     font: normal 15pt Arial;
 }
 header {
@@ -8,7 +8,7 @@ header {
 }
 
 .painel {
-    background: #6a98b6;
+    background: #50ad77;
     border-radius: 10px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.322);
     margin: auto;
